@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./borderlane-hero.jpg"
+       alt="Borderlane-HA — Crossing boundaries with code"
+       width="100%">
+</p>
 <div align="center">
 
 # Crossing boundaries with code. 🐧
