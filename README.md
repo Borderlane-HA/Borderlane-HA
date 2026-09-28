@@ -18,7 +18,7 @@
 ---
 
 ## 🐧 Featured Projects
-
+<p align="center">
 <table>
 <tr>
 <td width="50%">
@@ -88,7 +88,7 @@
 </td>
 </tr>
 </table>
-
+</p>
 <p align="center">
   <a href="https://github.com/Borderlane-HA?tab=repositories">
     → Explore all repositories
