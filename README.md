@@ -18,17 +18,17 @@
 ---
 
 ## 🐧 Featured Projects
-<p align="center">
-<table>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/PenguCoach">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=PenguCoach&theme=github_dark&hide_border=true" width="100%" alt="PenguCoach">
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/PenguLab">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=PenguLab&theme=github_dark&hide_border=true" width="100%" alt="PenguLab">
@@ -38,14 +38,14 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/PenguinPVDash">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=PenguinPVDash&theme=github_dark&hide_border=true" width="100%" alt="PenguinPVDash">
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/homelab-griller">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=homelab-griller&theme=github_dark&hide_border=true" width="100%" alt="homelab-griller">
@@ -55,14 +55,14 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/PenguAstro-DWARF-3-Home-Assistant-Integration">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=PenguAstro-DWARF-3-Home-Assistant-Integration&theme=github_dark&hide_border=true" width="100%" alt="PenguAstro">
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/PenguFresh">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=PenguFresh&theme=github_dark&hide_border=true" width="100%" alt="PenguFresh">
@@ -72,14 +72,14 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/Pengu-Heat-Card">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=Pengu-Heat-Card&theme=github_dark&hide_border=true" width="100%" alt="Pengu Heat Card">
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Borderlane-HA/Pengu-Water-Softener-Home-Assistant-Card">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=Pengu-Water-Softener-Home-Assistant-Card&theme=github_dark&hide_border=true" width="100%" alt="Pengu Water Softener Card">
@@ -88,7 +88,7 @@
 </td>
 </tr>
 </table>
-</p>
+
 <p align="center">
   <a href="https://github.com/Borderlane-HA?tab=repositories">
     → Explore all repositories
