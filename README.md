@@ -86,6 +86,13 @@
 </a>
 
 </td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Borderlane-HA/PenguDNS-OPNsense-Unbound-DNSBL">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Borderlane-HA&repo=PenguDNS-OPNsense-Unbound-DNSBL&theme=github_dark&hide_border=true" width="100%" alt="Pengu Water Softener Card">
+</a>
+
+</td>
 </tr>
 </table>
 
